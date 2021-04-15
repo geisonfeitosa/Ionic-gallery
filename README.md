@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#">
     <img width="300" src="./src/assets/images/print1.png">&nbsp;
-	<img width="300" src="./src/assets/images/print1.png">
+	<img width="300" src="./src/assets/images/print2.png">
   </a>
 </p>
 
